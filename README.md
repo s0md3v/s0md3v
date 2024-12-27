@@ -2,7 +2,6 @@
 
 I am a cyber security researcher and programmer. You can support my work with a few bucks [here](https://github.com/sponsors/s0md3v) and enjoy the perks ;)
 
-📩 Consultancy Services\
 Need cybersecurity/automation/generative AI expertise? I can help your organization tackle tough challenges.\
 Reach me at: `s0md3v {@} gmail dot com`
 
