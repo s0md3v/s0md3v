@@ -1,8 +1,9 @@
-<h2> Hi, I'm Somdev <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+Building industry-standard security tools since 2017. 100k+ stars here.
 
-I am a cyber security researcher and programmer. You can support my work with a few bucks [here](https://github.com/sponsors/s0md3v) and enjoy the perks ;)
+I help companies build better security products. I specialize in:
+- **Product R&D:** Not sure how to build a feature? I'll find a way.
+- **Automation Engineering:** Too many false positives, scaling issues or weird failures? Let me take a look.
 
-Need cybersecurity/automation/generative AI expertise? I can help your organization tackle tough challenges.\
-Reach me at: `contact@somdev.in`
+Or anything else you think I'd be interested in. **[Lets talk.](https://somdev.in/work)**
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/s0md3v) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s0md3v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s0md3v) ![](https://komarev.com/ghpvc/?username=s0md3v&style=pixel)
+[website](https://somdev.in) | [twitter](https://x.com/s0md3v) | [instagram](https://instagram.com/s0md3v) | [linkedin](https://komarev.com/ghpvc/?username=s0md3v&style=pixel)
