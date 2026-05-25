@@ -1,5 +1,7 @@
 Building open source software since 2017. 100k+ stars here.
 
+Latest project: [overthink.md](https://overthink.md), make your agents think thoroughly - immediate results, try it!
+
 To support my work and get access to some exclusive software, [sponsor me.](https://github.com/sponsors/s0md3v)
 
 Need my expertise? [Lets talk.](https://somdev.in/work)
